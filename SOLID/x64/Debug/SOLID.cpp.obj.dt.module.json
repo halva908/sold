@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SOLID\\x64\\Debug\\SOLID.obj",
+            "outputs": [
+                "SOLID\\x64\\Debug\\SOLID.cpp.obj.dt.module.json",
+                "SOLID\\x64\\Debug\\SOLID.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
